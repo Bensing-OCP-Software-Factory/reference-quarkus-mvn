@@ -2,7 +2,7 @@
 step-runner-config:
   global-defaults:
     organization: platform
-    application-name: ref-quarkus-mvn
+    application-name: bensing-ref-quarkus-mvn
     service-name: fruit
   container-image-static-vulnerability-scan:
   - name: OpenSCAP - Vulnerability - DataStream
