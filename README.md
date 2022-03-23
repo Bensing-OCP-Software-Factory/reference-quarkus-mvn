@@ -1,4 +1,4 @@
-# Trigger Text
+# Trigger
 
 # reference-quarkus-mvn
 A reference application that is built and unit tested with Maven
